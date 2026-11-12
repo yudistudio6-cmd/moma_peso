@@ -5,7 +5,7 @@
   "native_enabled": true,
   "rewarded_enabled": true,
   "unlock_all_when_ads_off": true,
-  "reward_unlock_minutes": 30,
+  "reward_unlock_minutes": 1,
   "config_refresh_seconds": 60,
   "ad_units_android_test": {
     "banner": "ca-app-pub-3380498514301154/9501307183",
@@ -14,16 +14,16 @@
   },
   "reward_lock_features": {
     "simulador_emprestimo": true,
-    "emprestimo_pessoal": true,
-    "financiamento_moto": true,
-    "financiamento_carro": true,
-    "financiamento_imobiliario": true,
-    "credito_consignado": true,
-    "cartao_credito": true,
-    "comparador_credito": true,
-    "planejamento_financeiro": true,
-    "analise_financeira": true,
-    "analise_taxas": true,
-    "guia_credito": true
+    "emprestimo_pessoal": false,
+    "financiamento_moto": false,
+    "financiamento_carro": false,
+    "financiamento_imobiliario": false,
+    "credito_consignado": false,
+    "cartao_credito": false,
+    "comparador_credito": false,
+    "planejamento_financeiro": false,
+    "analise_financeira": false,
+    "analise_taxas": false,
+    "guia_credito": false
   }
 }
